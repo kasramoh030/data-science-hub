@@ -1,0 +1,16 @@
+{
+  "name": "Data Science Hub",
+  "short_name": "DS Hub",
+  "description": "Complete bilingual (EN/FA) data science curriculum with exercises, playgrounds and progress tracking.",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "background_color": "#f6f7fb",
+  "theme_color": "#4f46e5",
+  "orientation": "portrait-primary",
+  "lang": "en",
+  "dir": "ltr",
+  "icons": [
+    { "src": "assets/icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ]
+}
